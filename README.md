@@ -72,6 +72,23 @@ The project includes a Streamlit web application for individual news classificat
 - Downloadable batch results
 - Model performance comparison
 
+## Google Colab
+
+The complete model training, evaluation, and model-generation workflow is available in Google Colab.
+
+Colab Notebook:
+https://colab.research.google.com/drive/1cV31sQfhx_1wuu7-R3LV99E7IeOHi8Eb?usp=sharing
+
+The notebook includes:
+- Dataset preprocessing
+- TF-IDF feature extraction
+- Model training
+- Model comparison
+- Linear SVM selection
+- Confidence calibration
+- Model saving
+- Performance evaluation
+
 ## Project Structure
 
 ```text
