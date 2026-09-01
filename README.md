@@ -3,7 +3,7 @@
 ## Elevate Labs Internship – Project Phase
 
 ### Project Domain
-Python Programming / Machine Learning
+Python Programming 
 
 ## Introduction
 
